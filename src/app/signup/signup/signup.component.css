@@ -1,0 +1,10 @@
+.content{
+    max-width: 500px;
+    margin: auto;
+    background-color:#fff;
+    padding:2% 5%;
+    border-radius: 1%;
+}
+.error{
+    color: red;
+}
